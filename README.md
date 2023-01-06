@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/alhamad8?tab=repositories](https://github.com/alhamad8?tab=repositories)
 
-- 💬 Ask me about **Testing,Flutter**
+- 💬 Ask me about **Testing**
 
 - 📫 How to reach me **alhamadahmad16@outlook.com**
 
